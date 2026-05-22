@@ -1,6 +1,7 @@
-# Ooprax
-(Object‑Oriented Programming Architecture Experience)
-## (Visual OOP Architecture IDE)
+# O2prax IDE
+(Object-Oriented Process Representation & Architecture eXecution)
+(Object-Oriented Planning, Representation And eXecution)
+
 ### Unified Visual Architecture • JSON-based OOP Model • AI‑Readable System  
 **Author & IP Owner: Atila Ghashghaie**  
 Email: atila.gh@gmail.com  
