@@ -1,6 +1,6 @@
 # O2prax IDE
-(Object-Oriented Process Representation & Architecture eXecution)  
-(Object-Oriented Planning, Representation And eXecution)
+(Object-Oriented Process Representation & Architecture EXecution)  
+(Object-Oriented Planning, Representation And EXecution)
 
 ### Unified Visual Architecture • JSON-based OOP Model • AI‑Readable System  
 **Author & IP Owner: Atila Ghashghaie**  
