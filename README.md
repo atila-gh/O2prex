@@ -3,7 +3,6 @@
 ### Object-Oriented Process Representation & Architecture EXecution
 
 ![image1](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/02.png)
-![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/02.png)
 
 > **Unified Visual Architecture • JSON-based OOP Model • AI‑Readable System**
 
@@ -22,6 +21,8 @@ License: **Proprietary Commercial** (NOT Open Source)
 ## 📌 What is O²Prex?
 
 **O²Prex is NOT just another IDE.** 
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/01.png)
+
 
 It's a **Visual Architecture Management Layer** that sits **ABOVE** traditional IDEs like VS Code, PyCharm, or IntelliJ. Think of it as the **Control Panel for your entire project architecture**.
 
@@ -66,6 +67,9 @@ They don't compete - they **COMPLEMENT** each other!
 ### 🟩 1. Architecture-as-a-File
 A single file (`project.oop`) becomes the **source of truth** for the entire project architecture. All modules, classes, methods, and their relationships are stored in one unified JSON structure.
 
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/01.png)
+
+
 ### 🟩 2. Unified JSON OOP Model
 All nodes in the project (modules, classes, methods, attributes) are defined in a structured JSON format that is both human-readable and machine-parseable.
 
@@ -81,9 +85,12 @@ A controlled code generator that converts the JSON file into clean, synchronized
 
 ### 🟩 5. Visual Architecture Canvas
 Graphical representation of the entire project structure with color-coded nodes and tree-based layout, allowing instant visual understanding.
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/03.png)
+
 
 ### 🟩 6. Datum Connections
 Automatic detection and visualization of dependencies between project components, revealing hidden relationships.
+
 
 ---
 
@@ -120,13 +127,19 @@ See **every** Module, Class, Method, and Function in a beautiful, color-coded vi
 
 ### 🔍 Live Search with Visual Filtering
 Type any character and watch non-matching items **fade to white** while matches stay colorful. Matched items **auto-unfold** so you see them in context. Find anything in **milliseconds**.
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/08.png)
 
 ### 🧩 Datum Connections (Dependency Analysis)
 One click reveals **everything** that uses a method/class and **everything** it uses. See hidden dependencies and understand **impact of changes** before you make them.
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/06.png)
 
 ### 🎯 Isolation Mode
 Search across **code, tags, comments, and docstrings**, then **isolate** only matching items. Focus on exactly what matters, **zero distractions**.
-
+<div style="display: flex; gap: 10px;">
+  <img src="image/14.png" width="300" />
+  <img src="image/15.png" width="300" />
+  <img src="image/16.png" width="300" />
+</div>
 ### 📋 Visual Project Management
 - **Todo Lists** attached to architecture items
 - **Green/Red flags** for OK/Issue status
