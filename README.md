@@ -124,9 +124,6 @@ Automatic detection and visualization of dependencies between project components
 | 🔧 Manual code generation | ⚙️ **Merge Engine** for automated code generation |
 
 ---
-  ![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/20.png)
-
-
 
 ## ✨ Key Features
 
@@ -159,7 +156,7 @@ Search across **code, tags, comments, and docstrings**, then **isolate** only ma
 - **Move Mode** to restructure visually (OOP rules enforced)
 - **Copy/Cut/Paste** entire trees with automatic ID generation
 - **Undo/Redo** for architecture changes
-![fold a class](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/18.png)
+![fold a class](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/05.png)
 
 
 ### 🚀 External Editor Integration
@@ -254,6 +251,8 @@ Use built-in editor or **VS Code/PyCharm** to write code in each item. O²Prex s
 - Lock/Suppress items for **controlled development**
 - Fold/Unfold for **clean view**
   ![todo list just for an Item](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/10.png)
+  ![todo list just for an Item](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/09.png)
+
 
 
 ### 5️⃣ Generate & Export
