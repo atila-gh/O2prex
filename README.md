@@ -2,6 +2,9 @@
 
 ### Object-Oriented Process Representation & Architecture EXecution
 
+![image1](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/02.png)
+![With a medium Project](https://raw.githubusercontent.com/atila-gh/O2prex/main/image/02.png)
+
 > **Unified Visual Architecture • JSON-based OOP Model • AI‑Readable System**
 
 ---
@@ -37,7 +40,7 @@ It's a **Visual Architecture Management Layer** that sits **ABOVE** traditional 
 │    │  • Variable Inspector                                     │    │
 │    │  • Todo & Flag Management                                 │    │
 │    │  • Lock/Suppress Controls                                 │    │
-│    │  • AI-Ready Export (JSONC)                               │    │
+│    │  • AI-Ready Export (JSONC)                                │    │
 │    │  • Architecture-as-a-File                                 │    │
 │    │  • Merge Engine for Code Generation                       │    │
 │    └───────────────────────────────────────────────────────────┘    │
