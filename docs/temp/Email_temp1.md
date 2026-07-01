@@ -2,7 +2,7 @@
 Subject: Strategic Partnership Proposal: O²Prex - The Architecture Layer for Your IDE
 Dear [Mr./Ms. Last Name],
 
-My name is Atila Ghashghaie, a designer of machinery and electronic circuits, and a software architecture researcher. I am excited to introduce a product that I believe can fundamentally transform the software development ecosystem and bring significant added value to [Your Company Name]'s product portfolio.
+My name is Atila Ghashghaie, a software architecture researcher. I am excited to introduce a product that I believe can fundamentally transform the software development ecosystem and bring significant added value to [Your Company Name]'s product portfolio.
 
 🚀 What is O²Prex?
 O²Prex (Object-Oriented Process Representation & Architecture EXecution) is a Visual Architecture Layer that sits ABOVE traditional IDEs, introducing the "Architecture-as-a-File" paradigm.
